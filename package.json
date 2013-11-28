@@ -1,0 +1,12 @@
+{
+  "name": "hello-node",
+  "version": "0.0.1",
+  "description": "A Hello World project for Node.JS.",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hwa107/hello-node.git"
+  },
+  "dependencies": {
+    "restler": "*"
+  }
+}
